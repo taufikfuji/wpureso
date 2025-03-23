@@ -2,10 +2,11 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
+    ^ Vue
+    ^ Menambhankan React
 - PHP Framework
   ^ Laravel
 - Interview
 - Vlog
-
+- Struktur Data Dasar
+- Phyton
